@@ -99,7 +99,7 @@ function App() {
         <div className="hero-content">
           <div className="badge">Teknologi Terbaru 2026</div>
           <h1 className="hero-title">
-            Deteksi Cerdas <br /> <span>Tuberkulosis</span>
+            Deteksi Tuberkulosis<br /> <span>Dengan AI</span>
           </h1>
           <p className="hero-subtitle">
             Analisis gambar X-ray paru-paru Anda dalam hitungan detik menggunakan kekuatan Machine Learning mutakhir.
